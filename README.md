@@ -12,4 +12,4 @@ Given that a loan charge off results in direct financial loss to a bank, it is p
 
 I extracted the datset with SQLite, transformed the data (i.e. data cleaning, exploratory data analysis, and building machine learning model), before loading it on Power BI to communicate the insights to business stakeholders.  
 
-You may refer to the Jupyter notebook for the codes, the presentation deck for the summary of key insights and business actionables, and sample of the dashboard in pdf for deeper appreciation of the dataset for business stakeholders.
+You may refer to the Jupyter notebook for the codes, the presentation deck for the summary of key insights and business actionables for non-technical stakeholders, and sample of the dashboard in pdf for deeper appreciation of the dataset for business stakeholders.
