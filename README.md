@@ -10,6 +10,6 @@ Given that a loan charge off results in direct financial loss to a bank, it is p
 
 ## Extract, Transform, Load (ETL) Workflow
 
-I extracted the datset with SQLite, transformed the data (i.e. data cleaning, exploratory data analysis, and building machine learning model), before loading it on Power BI to communicate the insights to business stakeholders.  
+I extracted the datset with SQLite, transformed the data (i.e. data cleaning, exploratory data analysis, and building machine learning model), before loading it on Power BI to communicate the insights to business stakeholders. As part of the ETL workflow, comparisons against the borrower's annual income was made against their State's median household income. Data from United States Census Bureau was used: https://data.census.gov/table/ACSST1Y2019.S1901?q=S1901&t=Income+and+Poverty&g=010XX00US$0400000&moe=false
 
 You may refer to the Jupyter notebook for the codes, the presentation deck for the summary of key insights and business actionables for non-technical stakeholders, and sample of the dashboard in pdf for deeper appreciation of the dataset for business stakeholders.
